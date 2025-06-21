@@ -64,7 +64,7 @@
 
 ### 🌟 Featured Projects
 
-- 🎮 **Cosmo Shooter Game** – SDL2-based shooter in C [🔗 GitHub](https://github.com/FarzanaTN/cosmo-shooter)
+- 🎮 **Cosmo Shooter Game** – SDL2-based shooter in C [🔗 GitHub](https://github.com/FarzanaTN/cosmo_shooter)
 - 🏨**Hotel Management System** –Hotel management sytem using java swing [🔗 GitHub](https://github.com/FarzanaTN/HotelManagementSystem)
 - 🏨**Hotel Management System(DBMS)** –Hotel management sytem using MYSQL [🔗 GitHub](https://github.com/FarzanaTN/Hms_Dbms)
 - 📱 **LearnLoop** – A Flutter-based Android application focused on collaborative learning. [🔗 GitHub](https://github.com/FarzanaTN/learnloop)  
