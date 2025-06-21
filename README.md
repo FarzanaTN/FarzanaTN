@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,18 +38,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarzanaTN&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanaTN&layout=compact&theme=tokyonight" height="180" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FarzanaTN&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanaTN&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-## 📊 GitHub Activity Graph
 
-![Farzana's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FarzanaTN&theme=github-compact)
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarzanaTN&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 ---
 
 ### 🧠 My Interests
+
 - 🌐 Web & App Development  
 - 🔐 Cybersecurity  
 - 📱 UI/UX Design  
@@ -58,25 +63,33 @@
 
 ---
 
-### 📫 Connect With Me
+### 🌟 Featured Projects
 
-<p align="left">
-  <a href="mailto:farzanatn@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/FarzanaTN"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<details>
+  <summary>📁 Click to view my projects</summary>
+
+  <ul>
+    <li>🎮 <strong>Cosmo Shooter Game</strong> – SDL2-based shooter in C [🔗 <a href="https://github.com/FarzanaTN/cosmo_shooter">GitHub</a>]</li>
+    <li>🏨 <strong>Hotel Management System</strong> – Java Swing-based UI system [🔗 <a href="https://github.com/FarzanaTN/HotelManagementSystem">GitHub</a>]</li>
+    <li>🛎️ <strong>Hotel Management (DBMS)</strong> – MySQL backend project [🔗 <a href="https://github.com/FarzanaTN/Hms_Dbms">GitHub</a>]</li>
+    <li>📱 <strong>LearnLoop</strong> – Flutter app for collaborative learning [🔗 <a href="https://github.com/FarzanaTN/learnloop">GitHub</a>]</li>
+    <li>💊 <strong>MedWise</strong> – Medical management with Next.js [🔗 <a href="https://github.com/FarzanaTN/MedWise">GitHub</a>]</li>
+  </ul>
+
+</details>
 
 ---
 
-### 🌟 Featured Projects
+### 📫 Connect With Me
 
-- 🎮 **Cosmo Shooter Game** – SDL2-based shooter in C [🔗 GitHub](https://github.com/FarzanaTN/cosmo_shooter)
-- 🏨**Hotel Management System** –Hotel management sytem using java swing [🔗 GitHub](https://github.com/FarzanaTN/HotelManagementSystem)
-- 🏨**Hotel Management System(DBMS)** –Hotel management sytem using MYSQL [🔗 GitHub](https://github.com/FarzanaTN/Hms_Dbms)
-- 📱 **LearnLoop** – A Flutter-based Android application focused on collaborative learning. [🔗 GitHub](https://github.com/FarzanaTN/learnloop)  
-- 💊 **MedWise** – A healthcare software solution built with Next.js for efficient medical management. [🔗 GitHub](https://github.com/FarzanaTN/MedWise)
-
-
-
+<p align="left">
+  <a href="mailto:farzanatn@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FarzanaTN">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
