@@ -43,6 +43,11 @@
 </p>
 
 ---
+## 📊 GitHub Activity Graph
+
+![Farzana's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FarzanaTN&theme=github-compact)
+
+---
 
 ### 🧠 My Interests
 - 🌐 Web & App Development  
