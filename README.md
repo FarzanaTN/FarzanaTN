@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Farzana Tasnim</h1>
+<h1 align="center">Assalamualaikum, I'm Farzana Tasnim</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Lifelong+Learner+%F0%9F%93%9A;Passionate+about+Coding+%F0%9F%92%BB" alt="Typing SVG" />
@@ -66,6 +66,12 @@
 
 - 🎮 **Cosmo Shooter Game** – SDL2-based shooter in C [🔗 GitHub](https://github.com/FarzanaTN/cosmo-shooter)
 - 🏨**Hotel Management System** –Hotel management sytem using java swing [🔗 GitHub](https://github.com/FarzanaTN/HotelManagementSystem)
+- 🏨**Hotel Management System(DBMS)** –Hotel management sytem using MYSQL [🔗 GitHub](https://github.com/FarzanaTN/Hms_Dbms)
+- 📱 **LearnLoop** – A Flutter-based Android application focused on collaborative learning. [🔗 GitHub](https://github.com/FarzanaTN/learnloop)  
+- 💊 **MedWise** – A healthcare software solution built with Next.js for efficient medical management. [🔗 GitHub](https://github.com/FarzanaTN/MedWise)
+
+
+
 
 ---
 
