@@ -71,9 +71,11 @@
   <ul>
     <li>🎮 <strong>Cosmo Shooter Game</strong> – SDL2-based shooter in C [🔗 <a href="https://github.com/FarzanaTN/cosmo_shooter">GitHub</a>]</li>
     <li>🏨 <strong>Hotel Management System</strong> – Java Swing-based UI system [🔗 <a href="https://github.com/FarzanaTN/HotelManagementSystem">GitHub</a>]</li>
-    <li>🛎️ <strong>Hotel Management (DBMS)</strong> – MySQL backend project [🔗 <a href="https://github.com/FarzanaTN/Hms_Dbms">GitHub</a>]</li>
+    <li>🛎️ <strong>Hotel Management (DBMS)</strong> – Database project using MySQL [🔗 <a href="https://github.com/FarzanaTN/Hms_Dbms">GitHub</a>]</li>
     <li>📱 <strong>LearnLoop</strong> – Flutter app for collaborative learning [🔗 <a href="https://github.com/FarzanaTN/learnloop">GitHub</a>]</li>
     <li>💊 <strong>MedWise</strong> – Medical management with Next.js [🔗 <a href="https://github.com/FarzanaTN/MedWise">GitHub</a>]</li>
+    <li>💊 <strong>FileFusion</strong> – File converter web app  using python. Computer networking project[🔗 <a href="https://github.com/FarzanaTN/FileFusion">GitHub</a>]</li>
+
   </ul>
 
 </details>
